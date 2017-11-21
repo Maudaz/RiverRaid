@@ -1,0 +1,31 @@
+Teclado:
+Derecha: D
+Izquierda: A
+Aceleracion: W
+Disparo: Espacio
+
+Comienzas con:
+3 Vidas
+Combustible Lleno
+
+Pierdes Combustible:
+Mientras Juegas se Reduce
+Si Aceleras se Reduce mas Rapido
+
+Pierdes Vidas:
+Si Golpeas el Orillo del Rio 
+Si Golpeas algun Enemigo
+Si Se Agota el Combustible
+
+Pierdes Puntaje:
+Si Disparas al Combustible
+
+Ganas Puntaje:
+Si Disparas a los Enemigos
+Si Recojes Combustible
+
+Pierdes el Juego:
+Al Perder las 3 Vidas
+
+Ganas el Juego:
+Si Logras una Duracion de 3 Minutos
